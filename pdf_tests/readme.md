@@ -1,7 +1,7 @@
-1. Install PyPDF2
+1. Install pypdf
 
 ```python
-from PyPDF2 import PdfWriter
+from pypdf import PdfWriter
 
 writer = PdfWriter()
 
